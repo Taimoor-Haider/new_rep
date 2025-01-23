@@ -1,6 +1,6 @@
 # Planning
 
-This is a simple website projrct for showing how to use github.
+I am by purpose changing this.
 
 ## Introduction
 
