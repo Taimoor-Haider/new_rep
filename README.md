@@ -1,7 +1,3 @@
-# Planning
-
-I am by purpose change this.
-
 ## Introduction
 
 ## Purpose
