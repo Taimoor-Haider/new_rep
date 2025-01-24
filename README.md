@@ -1,6 +1,6 @@
 # Planning
 
-I am by purpose changing this.
+I am by purpose this.
 
 ## Introduction
 
