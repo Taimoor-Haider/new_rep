@@ -17,3 +17,4 @@ This is for testing rebaseing 2.
 ## How to configure
 
 This is the new configuration to test rebasing 2.
+This is a fix to the production bug.
